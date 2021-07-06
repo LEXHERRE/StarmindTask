@@ -1,0 +1,2 @@
+# StarmindTask
+Starmind Application task
